@@ -74,6 +74,6 @@ MuseFlow is a deep learning model for music generation based on Flow model. Five
 
 ![MuseFlow](./model/MuseFlow.png)
 
-![MuseFlow_gen](./model/MuseFlow_gen_.png)
+![MuseFlow_gen](./model/MuseFlow_gen.png)
 
 
