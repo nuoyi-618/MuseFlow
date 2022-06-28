@@ -16,6 +16,7 @@ This project realized the generation model of pop music accompaniment MuseFlow b
 
 ## Introduction
 - Generative music accompaniment
+
   Directly load the trained model to orchestrate drums, guitar, bass and strings accompaniment for the piano theme.
   Download the pre-training model from https://pan.baidu.com/s/1RoidDpJHpNXARXZdrTpq-g (code:2ava) and place it in the folder "model"
   Run generate.py and input the mid format file to obtain the accompaniment result of five tracks.
